@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_COURSE.Views
+namespace Employee_Management_System.Views
 {
     /// <summary>
     /// Logique d'interaction pour EmployeeView.xaml

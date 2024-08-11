@@ -8,7 +8,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPF_COURSE.Models
+namespace Employee_Management_System.Models
 {
     public class EmployeeService
     {

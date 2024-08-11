@@ -5,10 +5,10 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WPF_COURSE.Commands;
-using WPF_COURSE.Models;
+using Employee_Management_System.Commands;
+using Employee_Management_System.Models;
 
-namespace WPF_COURSE.ViewModels
+namespace Employee_Management_System.ViewModels
 {
     public class EmployeeViewModel : INotifyPropertyChanged
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPF_COURSE.Models
+namespace Employee_Management_System.Models
 {
     public class Employee
     {

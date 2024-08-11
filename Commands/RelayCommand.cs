@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace WPF_COURSE.Commands
+namespace Employee_Management_System.Commands
 {
     public class RelayCommand : ICommand
     {

@@ -12,10 +12,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WPF_COURSE.Models;
-using WPF_COURSE.ViewModels;
+using Employee_Management_System.Models;
+using Employee_Management_System.ViewModels;
 
-namespace WPF_COURSE
+namespace Employee_Management_System
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
