@@ -23,7 +23,7 @@
         >
         <Border.Background>
             <ImageBrush 
-                ImageSource="C:\Users\bilal\source\repos\Employee-Management-System\Images\background.jpg"/>
+                ImageSource="Images\background.jpg"/>
         </Border.Background>
 
         <Border
